@@ -1,6 +1,6 @@
 # 🎓 University Archive & Coursework
 
-Raccolta di presentazioni, relazioni di laboratorio, elaborati e materiale didattico realizzati durante il mio percorso universitario.
+Raccolta di presentazioni, elaborati e materiale didattico realizzati durante il mio percorso universitario.
 
 ---
 
@@ -35,25 +35,10 @@ I contenuti sono organizzati per anno accademico / corso di laurea e suddivisi p
 
 ---
 
-## 📚 Indice dei Contenuti
-
-Di seguito una panoramica dei principali elaborati inclusi:
-
-| Corso / Materia | Argomento / Titolo | Formato | Anno Accademico |
-| :--- | :--- | :--- | :--- |
-| *Es. Ingegneria del Software* | *Presentazione Pattern Architetturali* | `PDF`, `PPTX` | 2023/2024 |
-| *Es. Reti di Calcolatori* | *Relazione sul protocollo BGP* | `LaTeX`, `PDF` | 2022/2023 |
-| *Es. Intelligenza Artificiale* | *Slide su Reti Neurali Convoluzionali* | `PDF` | 2023/2024 |
-
-*(Puoi aggiornare questa tabella inserendo i link diretti ai tuoi file).*
-
----
-
 ## 🛠️ Tecnologie & Strumenti Utilizzati
 
-- **Composizione testi & documenti:** LaTeX, Markdown, Typst, Microsoft Word
-- **Presentazioni:** Marp, Beamer (LaTeX), PowerPoint, Canva, Google Slides
-- **Grafici & Diagrammi:** Draw.io, Mermaid, Excalidraw, Figma
+- **Composizione testi & documenti:** LaTeX, pdf, matlab
+- **Presentazioni:**  PowerPoint
 
 ---
 
